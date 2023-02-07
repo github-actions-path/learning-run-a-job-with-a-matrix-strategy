@@ -1,4 +1,4 @@
-# 02-03-run-a-job-with-a-matrix-strategy
+# learning-run-a-job-with-a-matrix-strategy
 Use these files to demonstrate running a job with a matrix strategy.
 
 1. Create a new repo.
